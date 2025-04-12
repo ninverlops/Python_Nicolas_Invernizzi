@@ -25,5 +25,5 @@ Una explicacion breve
 2 - Paso 3
 4 - Paso 4
 '''
-## Abour me
+## About me
 I'm a full stack developer...
