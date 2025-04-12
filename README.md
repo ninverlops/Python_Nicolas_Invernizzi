@@ -8,7 +8,7 @@ Esto es un demostracion breve
 Instructivos
 
 ```bash
-yun install git
+run install git
 cd repo
 git init
 git add .
